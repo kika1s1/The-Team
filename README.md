@@ -9,7 +9,7 @@ Welcome to The Team Project Collaboration repository! This is the central hub wh
 | Tamirat Kebede  | kika1s1  | Project Lead / Documentation Lead / Contrinutor |           |       |
 | Suraphel Tekele | Sura-T   | Issue Tracker/Triager /Contributor/Maintainer   |           |       |
 | Yohannes Welel  |Yoheniy   | Contributor /Tester/Reviewer                    |           |       |
-| Yoseph          |          | Collaborator                                    |           |       |
+| Yoseph          |winnerJd | Collaborator                                    |           |       |
 | Mitiku          |          | Collaborator /Tester/QA Lead /Reviewer          |           |       |
 | Gebriel         |          | Contributor                                     |           |       |
 
